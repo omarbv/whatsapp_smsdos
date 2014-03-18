@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 let i=600000000
 let END=699999999
 echo "\n" > data
