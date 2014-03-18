@@ -8,7 +8,7 @@ In 2012 I found a Whatsapp vulnerability in the SMS code verification. With a si
 
 The script is developed for spanish mobile phones (+34), if you want to change it to another country, you should change the country code "34".
 
-Developeres:
+Developers:
 @chencho
 @omarbv 
 
