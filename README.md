@@ -10,6 +10,6 @@ A vulnerability found in the Whatsapp SMS platform for the code verification all
 
 The script is developed for spanish mobile phones (+34), if you want to change it to another country, you should change the country code "34".
 
-Developed by @chencho and @omarbv.
+Authors: @chencho & @omarbv
 
 
