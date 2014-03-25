@@ -3,7 +3,7 @@ whatsapp_smsdos
 
 Massive SMS dispatch through WhatsApp
 
-Script published on 26th March 2012 
+Script published on 26th March 2012: 
 http://www.securitybydefault.com/2012/03/arruinamos-whatsapp.html
 
 A vulnerability found in the Whatsapp SMS platform for the code verification allowed with a simple script to send a SMS to each registered phone with Whatsapp, without any restriction.
